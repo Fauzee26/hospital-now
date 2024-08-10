@@ -27,7 +27,7 @@ class FilterProvinceTableViewController: UITableViewController {
     }
 
     func setupUI() {
-        self.title = "All Province"
+        self.title = "Filter by Province"
     }
     // MARK: - Table view data source
 
